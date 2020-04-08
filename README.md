@@ -8,7 +8,7 @@
 
 2. Mobile:
 
-    ![Challenge Mobile Design for 375px](https://github.com/meilani/fourCardFeature/blob/master/images/desktop-mobile.jpg "Mobile Design for 1440px")
+    ![Challenge Mobile Design for 375px](https://github.com/meilani/fourCardFeature/blob/master/images/mobile-design.jpg "Mobile Design for 1440px")
 
 ## Frontend Mentor: 
 
